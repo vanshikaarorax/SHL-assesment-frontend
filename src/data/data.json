@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "Welcome to Our Intelligent Assesment recommendation system",
+    "paragraph": "Experience the future of digital services with our user-friendly platform and innovative solutions tailored for your needs."
+  },
+  "About": {
+    "paragraph": "Our platform is designed to make your experience seamless and efficient. Whether you're managing projects, collaborating with teams, or simply exploring, we've got the tools you need to succeed.",
+    "Why": [
+      "User-friendly interface",
+      "24/7 Customer Support",
+      "High Performance",
+      "Secure and Reliable"
+    ],
+    "Why2": [
+      "Customizable Features",
+      "Seamless Integration",
+      "AI-powered Tools",
+      "Responsive Design"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Dashboard Overview",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Analytics Tools",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Mobile App UI",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Team Collaboration",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Marketing Strategy",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Development Tools",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Performance Reports",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Customer Feedback",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Product Launch",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-cogs",
+      "name": "Custom Development",
+      "text": "Build tailored solutions for your unique business challenges with our expert development team."
+    },
+    {
+      "icon": "fa fa-mobile",
+      "name": "Mobile Optimization",
+      "text": "Ensure your applications perform beautifully across all devices with our mobile-first approach."
+    },
+    {
+      "icon": "fa fa-lock",
+      "name": "Security First",
+      "text": "Protect your data and users with industry-leading security features built into every layer."
+    },
+    {
+      "icon": "fa fa-cloud",
+      "name": "Cloud Integration",
+      "text": "Scale effortlessly and stay connected with seamless cloud service integrations."
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "name": "Analytics",
+      "text": "Gain actionable insights with real-time analytics dashboards and reports."
+    },
+    {
+      "icon": "fa fa-users",
+      "name": "Customer Support",
+      "text": "Get round-the-clock assistance from our friendly and knowledgeable support team."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"This app changed the way we work! It's fast, intuitive, and packed with features.\"",
+      "name": "Alice Johnson"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"I can't imagine going back to how we managed things before. Highly recommended!\"",
+      "name": "Rahul Sharma"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"A seamless experience from start to finish. The UI is fantastic!\"",
+      "name": "Maria Garcia"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Our team productivity doubled after switching to this platform.\"",
+      "name": "James Lee"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Superb customer service and outstanding features. Five stars!\"",
+      "name": "Chen Wei"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"I use this app every day and it never lets me down.\"",
+      "name": "Fatima Noor"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Emma Brown",
+      "job": "Founder & CEO"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Liam Wilson",
+      "job": "CTO"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Olivia Davis",
+      "job": "Lead Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Noah Smith",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "1234 Innovation Blvd, Silicon Valley",
+    "phone": "+1 0000000000",
+    "email": "contact@app.com",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "Features": [
+    {
+      "icon": "fa fa-rocket",
+      "title": "Fast Performance",
+      "text": "Our platform is optimized for speed, ensuring a smooth experience on all devices."
+    },
+    {
+      "icon": "fa fa-lightbulb-o",
+      "title": "Smart Suggestions",
+      "text": "AI-powered insights help you make smarter decisions and stay ahead of the curve."
+    },
+    {
+      "icon": "fa fa-shield",
+      "title": "Secure Access",
+      "text": "We prioritize your privacy and protect your data with enterprise-grade security."
+    },
+    {
+      "icon": "fa fa-plug",
+      "title": "Easy Integration",
+      "text": "Connect your favorite tools and services with just a few clicks."
+    }
+  ]
+}
